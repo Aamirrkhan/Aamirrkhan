@@ -12,8 +12,6 @@ I'm Aamir Khan, a passionate web developer with a strong foundation in HTML, CSS
 
 ## 🚀 Experience
 - **Frontend Developer at [TechMinds Venture]** (2023 - Present)
-
-  I've been working at TechMinds Venture for the past year,  gaining valuable experience in developing HTML projects. Here are some highlights:
 - **Technologies:** HTML, Bootstrap, CSS, jQuery, JavaScript
 - **Experience:** Working on various HTML projects with a focus on user interface design and functionality implementation.
 - **Contributions:** Collaborating with teams to deliver high-quality web solutions, incorporating responsive design principles and ensuring cross-browser compatibility.
