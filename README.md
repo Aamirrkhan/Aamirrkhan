@@ -30,7 +30,7 @@ I'm Aamir Khan, a passionate web developer with a strong foundation in HTML, CSS
   - [GitHub Repository Link](#)
 
 ## 📫 Get in Touch
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **Email:** [aamirkhan5156yusafzai@gmail.com](mailto:aamirkhan5156yusafzai@gmail.com)
 - **LinkedIn:** [Your LinkedIn Profile](#)
 - **Portfolio:** [Your Portfolio Website](#)
 
