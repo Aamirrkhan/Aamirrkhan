@@ -31,7 +31,7 @@ I'm Aamir Khan, a passionate web developer with a strong foundation in HTML, CSS
 
 ## 📫 Get in Touch
 - **Email:** [aamirkhan5156yusafzai@gmail.com](mailto:aamirkhan5156yusafzai@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](#)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/aamirrkhan/)
 - **Portfolio:** [Your Portfolio Website](#)
 
 ## 🏆 Achievements
