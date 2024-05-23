@@ -17,9 +17,9 @@ I'm Aamir Khan, a passionate web developer with a strong foundation in HTML, CSS
   - Implemented responsive design techniques to enhance mobile accessibility.
 
 ## 🌟 Featured Projects
-- **Project Name 1**
-  - Brief description of the project, technologies used, and your role.
-  - [GitHub Repository Link](#)
+- **George Jhonsen**
+  -Introducing George Jhonsen's cutting-edge e-commerce platform! Among its 11 pivotal modules, the spotlight shines on Auctions. Here, users can engage in custom bidding, unlocking a dynamic realm where products find their true value.
+  - [GitHub Repository Link](https://github.com/Aamirrkhan/george-jhonsen)
   
 - **Project Name 2**
   - Brief description of the project, technologies used, and your role.
