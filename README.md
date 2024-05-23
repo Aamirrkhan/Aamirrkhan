@@ -17,8 +17,6 @@ I'm Aamir Khan, a passionate web developer with a strong foundation in HTML, CSS
 - **Contributions:** Collaborating with teams to deliver high-quality web solutions, incorporating responsive design principles and ensuring cross-browser compatibility.
 - **Achievements:** Successfully implementing diverse functionalities and features to meet project requirements and client expectations.
 
-Feel free to reach out if you'd like to learn more about my experience at TechMinds Venture!
-
 - **WordPress Developer at [Salsoft Technologies]** (2022 - 2023)
   - Developed and maintained multiple websites, ensuring high performance and user-friendly experiences.
   - Collaborated with designers and backend developers to create seamless web applications.
