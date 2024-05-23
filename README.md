@@ -30,15 +30,7 @@ I'm Aamir Khan, a passionate web developer with a strong foundation in HTML, CSS
   - Developed and maintained multiple websites, ensuring high performance and user-friendly experiences.
   - Collaborated with designers and backend developers to create seamless web applications.
   - Implemented responsive design techniques to enhance mobile accessibility.
-  - Developing e-commerce websites, including integrating with payment gateways and using e-commerce plugins such as customer analytics, etc.
-  - Developing WordPress themes with the pixel-perfect accuracy.
-  - Custom WordPress post types/ Templates/Shortcodes.
-  - WordPress Theme Customization / Plugin Customization
-    
-- **Data Entry Operator at [Technado PVT Ltd]** (2019 - 2020)
-  - Developed and maintained multiple websites, ensuring high performance and user-friendly experiences.
-  - Collaborated with designers and backend developers to create seamless web applications.
-  - Implemented responsive design techniques to enhance mobile accessibility.
+
 
 ## 🌟 Featured Projects
 - **George Jhonsen**
