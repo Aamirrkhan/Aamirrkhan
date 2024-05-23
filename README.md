@@ -11,14 +11,14 @@ I'm Aamir Khan, a passionate web developer with a strong foundation in HTML, CSS
 - **Other Skills:** Responsive Web Design, Cross-browser Compatibility, UI/UX Design
 
 ## 🚀 Experience
-- **WordPress Developer at [Salsoft Technologies]** (2022 - 2023)
-  - Developed and maintained multiple websites, ensuring high performance and user-friendly experiences.
-  - Collaborated with designers and backend developers to create seamless web applications.
-  - Implemented responsive design techniques to enhance mobile accessibility.
-  - Developing e-commerce websites, including integrating with payment gateways and using e-commerce plugins such as customer analytics, etc.
-  - Developing WordPress themes with the pixel-perfect accuracy.
-  - Custom WordPress post types/ Templates/Shortcodes.
-  - WordPress Theme Customization / Plugin Customization
+- **Frontend Developer at [TechMinds Venture]** (2023 - Present)
+  I've been working at TechMinds Venture for the past year,  gaining valuable experience in developing HTML projects. Here are some highlights:
+- **Technologies:** HTML, Bootstrap, CSS, jQuery, JavaScript
+- **Experience:** Working on various HTML projects with a focus on user interface design and functionality implementation.
+- **Contributions:** Collaborating with teams to deliver high-quality web solutions, incorporating responsive design principles and ensuring cross-browser compatibility.
+- **Achievements:** Successfully implementing diverse functionalities and features to meet project requirements and client expectations.
+
+Feel free to reach out if you'd like to learn more about my experience at TechMinds Venture!
 
 - **WordPress Developer at [Salsoft Technologies]** (2022 - 2023)
   - Developed and maintained multiple websites, ensuring high performance and user-friendly experiences.
