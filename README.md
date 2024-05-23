@@ -1,4 +1,3 @@
-![Banner]([link_to_your_banner_image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapers.com%2Fcoding-background&psig=AOvVaw1pADKyy5f4014GtmyTxEhb&ust=1716591626490000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCFlaPwpIYDFQAAAAAdAAAAABAE))
 # Aamir Khan
 
 ### Hi there! 👋
