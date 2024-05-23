@@ -11,11 +11,29 @@ I'm Aamir Khan, a passionate web developer with a strong foundation in HTML, CSS
 - **Other Skills:** Responsive Web Design, Cross-browser Compatibility, UI/UX Design
 
 ## 🚀 Experience
+- **WordPress Developer at [Salsoft Technologies]** (2022 - 2023)
+  - Developed and maintained multiple websites, ensuring high performance and user-friendly experiences.
+  - Collaborated with designers and backend developers to create seamless web applications.
+  - Implemented responsive design techniques to enhance mobile accessibility.
+  - Developing e-commerce websites, including integrating with payment gateways and using e-commerce plugins such as customer analytics, etc.
+  - Developing WordPress themes with the pixel-perfect accuracy.
+  - Custom WordPress post types/ Templates/Shortcodes.
+  - WordPress Theme Customization / Plugin Customization
+
+- **WordPress Developer at [Salsoft Technologies]** (2022 - 2023)
+  - Developed and maintained multiple websites, ensuring high performance and user-friendly experiences.
+  - Collaborated with designers and backend developers to create seamless web applications.
+  - Implemented responsive design techniques to enhance mobile accessibility.
+  - Developing e-commerce websites, including integrating with payment gateways and using e-commerce plugins such as customer analytics, etc.
+  - Developing WordPress themes with the pixel-perfect accuracy.
+  - Custom WordPress post types/ Templates/Shortcodes.
+  - WordPress Theme Customization / Plugin Customization
+
 - **WordPress Developer at [Technado PVT Ltd]** (2020 - 2022)
   - Developed and maintained multiple websites, ensuring high performance and user-friendly experiences.
   - Collaborated with designers and backend developers to create seamless web applications.
   - Implemented responsive design techniques to enhance mobile accessibility.
-  - Developing e-commerce websites, including their integration with payment gateways and using e-commerce plugins such as customer analytics, etc.
+  - Developing e-commerce websites, including integrating with payment gateways and using e-commerce plugins such as customer analytics, etc.
   - Developing WordPress themes with the pixel-perfect accuracy.
   - Custom WordPress post types/ Templates/Shortcodes.
   - WordPress Theme Customization / Plugin Customization
