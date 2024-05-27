@@ -1,5 +1,3 @@
-# Aamir Khan
-
 ### Hi there! 👋
 
 I'm Aamir Khan, a passionate web developer with a strong foundation in HTML, CSS, JavaScript, and React. With 4 years of professional experience in the web design industry, I've worked on numerous projects that have honed my skills and expanded my knowledge.
