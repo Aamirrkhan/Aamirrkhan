@@ -37,9 +37,9 @@ I'm Aamir Khan, a passionate web developer with a strong foundation in HTML, CSS
   -Introducing George Jhonsen's cutting-edge e-commerce platform! Among its 11 pivotal modules, the spotlight shines on Auctions. Here, users can engage in custom bidding, unlocking a dynamic realm where products find their true value.
   - [GitHub Repository Link](https://github.com/Aamirrkhan/george-jhonsen)
   
-- **Project Name 2**
-  - Brief description of the project, technologies used, and your role.
-  - [GitHub Repository Link](#)
+- **Adekunle Ajadi**
+  - This is my project based on HTML, CSS, jQuery, and JavaScript, through which users can easily create their CVs or resume.
+  - [GitHub Repository Link](https://github.com/Aamirrkhan/adekunle-ajadi)
   
 - **Project Name 3**
   - Brief description of the project, technologies used, and your role.
@@ -58,4 +58,4 @@ I'm Aamir Khan, a passionate web developer with a strong foundation in HTML, CSS
 ## 📈 GitHub Stats
 ![Aamir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas.
+Thank you for visiting my GitHub profile! Feel free to explore my repositories and contact me with any questions or collaboration ideas.
