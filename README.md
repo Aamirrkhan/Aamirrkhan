@@ -35,8 +35,7 @@ I'm Aamir Khan, a passionate web developer with a strong foundation in HTML, CSS
   -Introducing George Jhonsen's cutting-edge e-commerce platform! Among its 11 pivotal modules, the spotlight shines on Auctions. Here, users can engage in custom bidding, unlocking a dynamic realm where products find their true value.
   - [GitHub Repository Link](https://github.com/Aamirrkhan/george-jhonsen)
   
-- **Adekunle Ajadi**
-  - This is my project based on HTML, CSS, jQuery, and JavaScript, through which users can easily create their CVs or resume.
+- **Adekunle Ajadi** - This is my project based on HTML, CSS, jQuery, and JavaScript, through which users can easily create their CVs or resume.
   - [GitHub Repository Link](https://github.com/Aamirrkhan/adekunle-ajadi)
   
 - **Project Name 3**
