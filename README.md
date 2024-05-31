@@ -38,10 +38,6 @@ I'm Aamir Khan, a passionate web developer with a strong foundation in HTML, CSS
 - **Adekunle Ajadi**
   - This is my project based on HTML, CSS, jQuery, and JavaScript, through which users can easily create their CVs or resume.
   - [GitHub Repository Link](https://github.com/Aamirrkhan/adekunle-ajadi)
-  
-- **Project Name 3**
-  - Brief description of the project, technologies used, and your role.
-  - [GitHub Repository Link](#)
 
 ## 📫 Get in Touch
 - **Email:** [aamirkhan5156yusafzai@gmail.com](mailto:aamirkhan5156yusafzai@gmail.com)
